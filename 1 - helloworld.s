@@ -29,7 +29,7 @@ start:  initIO                  * Initialize (required for I/O)
 *
 *----------------------------------------------------------------------
 *       Storage declarations
-title: 		dc.b		'Hello World, masc1125, Troy Mathis',0
+title: 		dc.b		'Hello World, Troy Mathis',0
 hello: 		dc.b		'Hello World',0
 final:		dc.b		'So anticlimactic...',0
 				* Your storage declarations go 
